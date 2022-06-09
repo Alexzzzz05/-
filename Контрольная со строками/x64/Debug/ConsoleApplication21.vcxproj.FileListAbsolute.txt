@@ -1,0 +1,5 @@
+E:\Контрольная\x64\Debug\ConsoleApplication21.exe
+E:\Контрольная\x64\Debug\ConsoleApplication21.pdb
+C:\Users\proftest\Desktop\Контрольная\x64\Debug\ConsoleApplication21.exe
+C:\Users\proftest\Desktop\Контрольная\x64\Debug\ConsoleApplication21.pdb
+D:\Контрольная со строками\x64\Debug\ConsoleApplication21.exe

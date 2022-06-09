@@ -1,0 +1,3 @@
+﻿  ConsoleApplication21.cpp
+D:\Контрольная со строками\ConsoleApplication21.cpp(248,18): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication21.vcxproj -> D:\Контрольная со строками\x64\Debug\ConsoleApplication21.exe
